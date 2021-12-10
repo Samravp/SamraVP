@@ -26,6 +26,8 @@ Possess a Bachelor of Business Economics from the University of Tabriz, Iran, an
 I love mining hidden gems located within large sets of structured, semi-structured, and raw data and drawing insightful visualisations to help senior managers make informed business decisions.
 
 
+
+
 <p align="center"> 
   Total Commit<br>
   <img src="https://github-readme-stats.vercel.app/api?username=Samravp&theme=dark&show_icons=true&hide=contribs,prs,stars,issues" />
