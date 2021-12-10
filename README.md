@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"> 
+  Total Commit<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Samravp&theme=dark&show_icons=true&hide=contribs,prs,stars,issues" />
+</p>
+
+
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/Samravp/count.svg"/>
+</p>
