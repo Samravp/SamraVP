@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Samra Vatan Parast, I am a Microsoft certified data analyst associate with proven experience working in a fast-paced, and demanding environment, and handling sensetive and confidential data. Possess a Bachelor of Business Economics from the University of Tabriz, Iran, and a Certificate in Data Analytics Bootcamp from Monash University, Australia.
+
+
 <p align="center"> 
   Total Commit<br>
   <img src="https://github-readme-stats.vercel.app/api?username=Samravp&theme=dark&show_icons=true&hide=contribs,prs,stars,issues" />
