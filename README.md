@@ -29,7 +29,7 @@ Check out my [projects](https://github.com/Samravp?tab=repositories) !
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/samravp/) !
 
-Contact me via email to [samra.vatan@gmail.com](emailto:samra.vatan@gmail.com) !
+Contact me via email to [samra.vatan@gmail.com](mailto:samra.vatan@gmail.com) !
 
 
 
