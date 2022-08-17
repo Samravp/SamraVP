@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Samra Vatan Parast.
 
-A Microsoft certified data analyst associate with a background in finance and business.
+A data analyst with a background in finance and business.
 
 I have proven experience working in a fast-paced and demanding environment and handling sensetive and confidential data. 
 
