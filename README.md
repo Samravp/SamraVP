@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 My name is Samra Vatan Parast.
 
-A data analyst with a background in finance and business.
+I am a Reporting and Insights Analyst with a background in finance and business.
 
 I have proven experience working in a fast-paced and demanding environment and handling sensetive and confidential data. 
 
-Possess a Bachelor of Business Economics and a Certificate in Data Analytics from Monash University, Australia.
+Possess a Bachelor of Business Economics, Certificate in Data Analytics and Health Informatition Certificate.
 
 I love mining hidden gems located within large sets of structured, semi-structured, and raw data and drawing insightful visualisations to help senior managers make informed business decisions.
 
